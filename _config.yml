@@ -1,0 +1,28 @@
+name: SHERPA AI
+favicon: null
+layout_spectrum: 0.279852828476578
+typography_spectrum: 0.7099870541132987
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.47306192154064775
+  lightness: 0.29503732081502676
+  saturation: 0.19109337753616273
+  rhythmicContrast: 0.793377588968724
+purpose: []
